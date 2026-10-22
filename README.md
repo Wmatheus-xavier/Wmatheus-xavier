@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o(a) SEU_NOME 👋</h1>
+<h1 align="center">Oi, eu sou o Washington Matheus</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+programação+💻;Explorando+novas+áreas+🔍;Aprendendo+algo+novo+todo+dia+🚀" alt="Typing SVG" />
@@ -7,14 +7,12 @@
 ---
 
 ### 🧭 Sobre mim
-- 🔭 Estou explorando áreas da tecnologia para descobrir qual combina comigo
-- 🌱 Aprendendo: SUA_TECNOLOGIA (ex.: Python, HTML/CSS)
-- 💬 Pergunte-me sobre: SEU_ASSUNTO_FAVORITO
-- ⚡ Curiosidade: ALGO_DIVERTIDO_SOBRE_VOCÊ
+-  Estou explorando áreas da tecnologia para descobrir qual combina comigo
+-  Aprendendo atualmente: Bancos de Dados e Redes de Computadores 
 
 ### 🛠️ Tecnologias que estou testando
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=git,github,Clion,c,c++,python" />
 </p>
 
 ### 📊 Minhas estatísticas
@@ -25,6 +23,6 @@
 
 ### 📫 Vamos conversar?
 <p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/washington-almeida-32b637364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="washingtonalmeida5743@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
