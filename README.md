@@ -19,8 +19,8 @@
 
 ### 📊 Minhas estatísticas
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wmatheus-xavier&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wmatheus-xavier&layout=compact&theme=tokyonight" />
 </p>
 
 ### 📫 Vamos conversar?
