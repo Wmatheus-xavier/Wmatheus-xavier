@@ -12,7 +12,7 @@
 
 ### 🛠️ Tecnologias que estou testando
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,Clion,c,c++,python" />
+  <img src="https://skillicons.dev/icons?i=git,github,c,python" />
 </p>
 
 ### 📊 Minhas estatísticas
