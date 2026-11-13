@@ -16,7 +16,6 @@
 </p>
 
 ### 📊 Minhas estatísticas
-## 📊 GitHub Engineering Stats
 
 <p align="center">
   <a href="https://streak-stats.demolab.com/">
